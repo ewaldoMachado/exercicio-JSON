@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "nome": "Carro",
+      "marca": "Chevrolet",
+      "categoria": "Veículos",
+      "preço": 50000,
+      "quantidadeEmEstoque": 10,
+      "prontaEntrega": true
+    },
+    {
+      "id": 2,
+      "nome": "Moto",
+      "marca": "Honda",
+      "categoria": "Veículos",
+      "preço": 10000,
+      "quantidadeEmEstoque": 20,
+      "prontaEntrega": true
+    },
+    {
+      "id": 3,
+      "nome": "Bike",
+      "marca": "Caloi",
+      "categoria": "Veículos",
+      "preço": 500,
+      "quantidadeEmEstoque": 30,
+      "prontaEntrega": false
+    }
+  ]
+  
